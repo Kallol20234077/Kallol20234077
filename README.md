@@ -4,7 +4,7 @@
 -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
-  <span style="color:gold; text-shadow: 0 0 12px #FFD700, 0 0 24px #FFD700;">✨ Hemant Raj ✨</span>
+  <span style="color:gold; text-shadow: 0 0 12px #FFD700, 0 0 24px #FFD700;">✨ Kallol Mondal ✨</span>
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="100">
 </h1>
 
